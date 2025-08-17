@@ -92,28 +92,6 @@ const abdelrahman = {
 
 ---
 
-## 🎮 Featured Projects
-
-<div align="center">
-
-### 🚀 [Game Project 1](https://github.com/yourusername/project1)
-**Unity AI Platformer** • *Unity, C#, AI Pathfinding*
-
-A 2D platformer featuring intelligent enemy AI and procedural level generation
-
----
-
-### 🎨 [Animation Showcase](https://github.com/yourusername/animation-project)  
-**3D Animation Reel** • *Maya, Blender, Rigging*
-
-Collection of character animations and environment modeling practice
-
----
-
-### 🎵 [Audio Visualizer Game](https://github.com/yourusername/audio-game)
-**Music-Reactive Experience** • *Unity, C#, Audio Analysis*
-
-Real-time audio visualization with interactive gameplay elements
 
 </div>
 
