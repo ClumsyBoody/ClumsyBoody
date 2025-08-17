@@ -30,6 +30,14 @@
 
 ---
 
+## 🌐 Languages  
+![Arabic](https://img.shields.io/badge/Arabic-Native-green?style=for-the-badge)  
+![English](https://img.shields.io/badge/English-Bilingual%2FNative-blue?style=for-the-badge)  
+![Turkish](https://img.shields.io/badge/Turkish-B1%20Proficiency-red?style=for-the-badge)  
+![German](https://img.shields.io/badge/German-A1%20Proficiency-black?style=for-the-badge)  
+
+---
+
 ## 📊 GitHub Stats  
 ![Abdelrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)  
